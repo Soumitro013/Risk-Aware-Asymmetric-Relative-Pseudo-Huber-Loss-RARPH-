@@ -831,6 +831,6 @@ The implementation specifically addresses real-time prediction of wind-turbine g
 
 **[Soumitro Mukherjee](https://www.linkedin.com/in/soumitro-mukherjee-746487200/)**
 
-**Ph.D. Scholar, Renewable Energy System Reliability and Performance, Artificial Intelligence and Machine Learning** 
+**Ph.D. Scholar, Renewable Energy Integration and System Reliability Enhancement, Artificial Intelligence and Machine Learning** 
 
 ---
